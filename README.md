@@ -161,7 +161,7 @@ pip install sqlparse rdflib
 ### ▶️ Running the Application
 
 ```bash
-python sql_tutor.py
+python sql_tutor_system.py
 ```
 
 The GUI window will open automatically.
@@ -212,19 +212,3 @@ WHERE e.salary > 60000;
 * Integration with PostgreSQL / Oracle
 
 ---
-
-## 👤 Author
-
-**Cruz Bello**
-SQL • Data Systems • Semantic Web • Intelligent Tutoring Systems
-
----
-
-## 📜 License
-
-This project is provided for **educational and research purposes**.
-You are free to modify and extend it with attribution.
-
----
-
-⭐ *If you find this project useful, consider starring the repository!*
